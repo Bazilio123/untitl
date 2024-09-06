@@ -40,3 +40,4 @@ const foo = async () => {
 
 
 void foo();
+d
